@@ -1,0 +1,14 @@
+ls
+$VAR=foo
+print $VAR
+theme blue
+$VAR="foo"
+print testing
+pwd
+whoami
+theme red
+print "Good Morning" $VAR
+$a=ok
+print testing 2: $a
+theme green
+log
